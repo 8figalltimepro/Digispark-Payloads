@@ -4,6 +4,8 @@
 To learn about the workings of digispark [click here](https://null-byte.wonderhowto.com/how-to/run-usb-rubber-ducky-scripts-super-inexpensive-digispark-board-0198484/)
 > All the payloads are tested on Attiny85 and created on Arduino IDE.
 
+> Please give Delay as per needed. You can actually change many codes to one-liners as well. I have given a suffecient amount of delay please increase if needed.
+
 > Auto-Subscribe :- auto subscribes to a yt channel.
 
 > Very Simple Backdoor :- opens up a simple admin cmd when alt-shift-printscreen is pressed on login screen
