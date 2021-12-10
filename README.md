@@ -14,6 +14,8 @@ To learn about the workings of digispark [click here](https://null-byte.wonderho
 
 > Multi Browser Password Grabber :- grabs all the passwords of all web browsers and sends it to you. Don't worry its not mimikatz or anything of such sort. It uses nirsoft password recovery utility.
 
+> Eternal Lock :- Keeps on locking Windows even if a restart is done. Basically the person won't be able to work. A deadly prank! indeed. It's a true IZANAMI
+
 ## Setup (*Need not follow But Recommended*)
 1. windows + r
 2. AppData
