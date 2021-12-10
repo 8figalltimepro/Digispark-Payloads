@@ -30,17 +30,13 @@ To learn about the workings of digispark [click here](https://null-byte.wonderho
 13. Add on the 130th line
 
 ````
- #define KEY_DOWN 0x51
-
- #define KEY_ENTER 0x28
-
- #define KEY_ARROW_RIGHT 0x4F
-
- #define KEY_ARROW_UP 0x52
-
- #define KEY_TAB 0x2b
-
- #define KEY_ESCAPE 0x29
+#define KEY_ARROW_LEFT 0x50
+#define KEY_DOWN 0x51
+#define KEY_ENTER 0x28
+#define KEY_ARROW_RIGHT 0x4F
+#define KEY_ARROW_UP 0x52
+#define KEY_TAB 0x2b
+#define KEY_ESCAPE 0x29
 
 ````
 
