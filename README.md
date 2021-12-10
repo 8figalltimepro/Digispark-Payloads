@@ -1,5 +1,5 @@
 # Digispark-Payloads
-**Multiple payloads for the digispark digistump AVR boards. Some are translated from RubberDucky and some are original.**
+**Multiple payloads for the digispark digistump AVR boards. Some are translated from RubberDucky and some are original. Grab all passwords of every Browser, Lock Windows repeatedly, many more.**
 ## All scripts are created by 8figurealltimepro.
 To learn about the workings of digispark [click here](https://null-byte.wonderhowto.com/how-to/run-usb-rubber-ducky-scripts-super-inexpensive-digispark-board-0198484/)
 > All the payloads are tested on Attiny85 and created on Arduino IDE.
