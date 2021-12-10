@@ -3,8 +3,13 @@
 // https://cdn.vox-cdn.com/thumbor/DMXD2zLif49j6IP2i3Avda2Cyl0=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22312759/rickroll_4k.jpg a rickroll image if you want. :)
 
 #include "DigiKeyboard.h"
-#define KEY_DOWN 0x51 // Keyboard Down Arrow
-#define KEY_ENTER 0x28 //Return/Enter Key
+#define KEY_ARROW_LEFT 0x50
+#define KEY_DOWN 0x51
+#define KEY_ENTER 0x28
+#define KEY_ARROW_RIGHT 0x4F
+#define KEY_ARROW_UP 0x52
+#define KEY_TAB 0x2b
+#define KEY_ESCAPE 0x29
 
 void setup() {
   pinMode(1, OUTPUT); //LED on Model A 
