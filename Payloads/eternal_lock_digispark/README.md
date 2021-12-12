@@ -17,3 +17,10 @@ There are two good ways to stop the script I found. I any please let me know.
 ![tskmgr](https://i.ibb.co/G93Dh2M/eternal-lock-damage-control.png)
 
 2. Using my backdoor 
+
+https://github.com/8figalltimepro/Digispark-Payloads/blob/main/Payloads/simple_backdoor_digispark/simple_backdoor_digispark.ino
+
+````
+taskkill /IM "wscript.exe" /F && cd %userprofile%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ && del EL.vbs
+````
+Paste the above code in cmd and you will achieve freedom even from bastard level three :) lol
