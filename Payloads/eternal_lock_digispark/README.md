@@ -12,11 +12,11 @@ There are 3 bastard levels to this script:-
 
 ### There are two good ways to stop the script I found. I any please let me know.
 
-1. Using task manager:- Just stop this process given in the img. You can see this icon for the task.
+##### 1. Using task manager:- Just stop this process given in the img. You can see this icon for the task.
 
 ![tskmgr](https://i.ibb.co/G93Dh2M/eternal-lock-damage-control.png)
 
-2. Using my backdoor 
+##### 2. Using my backdoor 
 
 https://github.com/8figalltimepro/Digispark-Payloads/blob/main/Payloads/simple_backdoor_digispark/simple_backdoor_digispark.ino
 
