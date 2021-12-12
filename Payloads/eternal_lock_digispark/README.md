@@ -20,6 +20,10 @@ There are two good ways to stop the script I found. I any please let me know.
 
 https://github.com/8figalltimepro/Digispark-Payloads/blob/main/Payloads/simple_backdoor_digispark/simple_backdoor_digispark.ino
 
+Just add my backdoor code with the eternal lock code and it becomes a local ransomware but please don't do anything illegal. PERMISSION IS IMPORTANT.
+
+This script needs to run first then the eternal lock.
+
 ````
 taskkill /IM "wscript.exe" /F && cd %userprofile%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ && del EL.vbs
 ````
