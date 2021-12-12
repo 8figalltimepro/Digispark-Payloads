@@ -22,8 +22,6 @@ https://github.com/8figalltimepro/Digispark-Payloads/blob/main/Payloads/simple_b
 
 Just add my backdoor code with the eternal lock code and it becomes a local ransomware but please don't do anything illegal. PERMISSION IS IMPORTANT.
 
-This script needs to run first then the eternal lock.
-
 ````
 taskkill /IM "wscript.exe" /F && cd %userprofile%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ && del EL.vbs
 ````
