@@ -10,7 +10,7 @@ There are 3 bastard levels to this script:-
 
 3. Instead of ````rundll32.exe user32.dll,LockWorkStation\```` if you change it to ````shutdown.exe /p /f ```` . This goes to an eternal shutdown every time there is a startup.
 
-### There are two good ways to stop the script I found. I any please let me know.
+### There are two good ways to stop the script I found. If any others are found please let me know.
 
  1. Using task manager:- Just stop this process given in the img. You can see this icon for the task.
 
